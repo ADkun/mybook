@@ -1,0 +1,6 @@
+[book]
+authors = ["ADkun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My Book"
